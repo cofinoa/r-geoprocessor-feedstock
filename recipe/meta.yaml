@@ -30,14 +30,14 @@ requirements:
     - r-abind
     - r-gdalutils
     - r-rgdal
-    - r-sp
+    - r-sp <2
     - r-transformer >=1.6.1
   run:
     - r-base
     - r-abind
     - r-gdalutils
     - r-rgdal
-    - r-sp
+    - r-sp <2
     - r-transformer >=1.6.1
 
 test:
